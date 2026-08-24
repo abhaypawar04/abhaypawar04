@@ -90,24 +90,7 @@ Take a look at my portfolio for my latest projects, experiments, and work:
 
 ---
 
-## Currently
 
-I'm continuing to improve my full-stack development skills, build projects, and explore better approaches to creating simple and effective digital products.
-
----
-
-## Let's Connect
-
-If you'd like to talk about development, projects, ideas, or collaboration, feel free to reach out.
-
-<p align="left">
-  <a href="https://abhay-pawar-portfolio.vercel.app/">
-    Portfolio
-  </a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/abhaypawar04">
-    GitHub
-  </a>
 </p>
 
 <br>
