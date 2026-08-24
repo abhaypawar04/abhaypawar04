@@ -49,15 +49,4 @@ Experiments and products that help me learn, improve, and explore new ideas.
 
 ---
 
-## Selected Work
-
-Take a look at my portfolio for my latest projects, experiments, and work:
-
-<p align="left">
-  <a href="https://abhay-pawar-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" />
-  </a>
-</p>
-
----
 
