@@ -49,26 +49,6 @@ Experiments and products that help me learn, improve, and explore new ideas.
 
 ---
 
-## Tech Stack
-
-### Frontend
-
-`HTML` `CSS` `JavaScript` `React` `Tailwind CSS`
-
-### Backend
-
-`Node.js` `Express.js`
-
-### Database
-
-`MongoDB`
-
-### Tools
-
-`Git` `GitHub` `VS Code` `Vercel`
-
----
-
 ## Selected Work
 
 Take a look at my portfolio for my latest projects, experiments, and work:
@@ -81,20 +61,3 @@ Take a look at my portfolio for my latest projects, experiments, and work:
 
 ---
 
-## GitHub
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhaypawar04&show_icons=true&hide_border=true&title_color=111111&icon_color=111111&text_color=555555&bg_color=ffffff" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaypawar04&layout=compact&hide_border=true&title_color=111111&text_color=555555&bg_color=ffffff" />
-</p>
-
----
-
-
-</p>
-
-<br>
-
-<p align="center">
-  <sub>Designed with simplicity in mind.</sub>
-</p>
