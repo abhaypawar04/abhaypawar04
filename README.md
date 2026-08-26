@@ -1,6 +1,6 @@
-<p align="left">
+<h2 align="center">
   Abhay Pawar
-</p>
+</h2>
 <p align="center">
   <i>Building modern products that feel simple, fast, and intuitive.</i>
 </p>
