@@ -13,6 +13,7 @@
   </a>
 </p>
 ---
+
 ## About
 I'm a developer who enjoys turning ideas into polished digital experiences.
 My main focus is **full-stack web development**, working across both the interface users see and the systems powering it behind the scenes.
@@ -30,7 +31,9 @@ Modern full-stack applications with practical, user-focused interfaces.
 REST APIs, authentication, databases, and reliable server-side functionality.
 ### Interactive Experiences
 Responsive interfaces designed to feel natural across devices.
+
 ---
+
 ## Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
