@@ -30,7 +30,7 @@ Responsive interfaces designed to feel natural across devices.
 
 ## Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,tailwind,jwt,aws,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,tailwind,linux,aws,postman" />
 </p>
 
 ---
