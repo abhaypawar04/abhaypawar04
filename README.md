@@ -1,11 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Abhay%20Pawar&fontSize=55&fontColor=000000&fontAlignY=50&desc=MERN%20Developer%20%C2%B7%20Full-Stack%20Developer&descSize=18&descAlignY=80" />
 </p>
-
 <p align="center">
   <i>Building modern products that feel simple, fast, and intuitive.</i>
 </p>
-
 <p align="center">
   <a href="https://abhay-pawar-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=safari&logoColor=white" />
@@ -14,37 +12,26 @@
     <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
-
 ---
-
 ## About
-
 I'm a developer who enjoys turning ideas into polished digital experiences.
 My main focus is **full-stack web development**, working across both the interface users see and the systems powering it behind the scenes.
-
 I care about:
 * Clean and intuitive UI
 * Scalable application architecture
 * Responsive web experiences
 * Developer-friendly code
 * Learning and experimenting with new technologies
-
 ---
-
 ## What I Build
-
 ### Web Applications
 Modern full-stack applications with practical, user-focused interfaces.
-
 ### Backend Systems
 REST APIs, authentication, databases, and reliable server-side functionality.
-
 ### Interactive Experiences
 Responsive interfaces designed to feel natural across devices.
 ---
-
 ## Tech Stack
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
 </p>
