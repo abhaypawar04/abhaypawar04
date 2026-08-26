@@ -1,12 +1,14 @@
 # Abhay Pawar
 
-### MERN Developer · Full-Stack Developer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Abhay%20Pawar&fontSize=55&fontColor=000000&fontAlignY=50&desc=MERN%20Developer%20%C2%B7%20Full-Stack%20Developer&descSize=18&descAlignY=80" />
+</p>
 
-I build modern, scalable web applications with a focus on clean interfaces, thoughtful user experiences, and reliable backend systems.
+<p align="center">
+  <i>Building modern products that feel simple, fast, and intuitive.</i>
+</p>
 
-Currently exploring better ways to build products that feel **simple, fast, and intuitive**.
-
-<p align="left">
+<p align="center">
   <a href="https://abhay-pawar-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=safari&logoColor=white" />
   </a>
@@ -21,7 +23,7 @@ Currently exploring better ways to build products that feel **simple, fast, and 
 
 I'm a developer who enjoys turning ideas into polished digital experiences.
 
-My main focus is full-stack web development, working across both the interface users see and the systems powering it behind the scenes.
+My main focus is **full-stack web development**, working across both the interface users see and the systems powering it behind the scenes.
 
 I care about:
 
@@ -35,18 +37,64 @@ I care about:
 
 ## What I Build
 
-**Web Applications**
+### Web Applications
+
 Modern full-stack applications with practical, user-focused interfaces.
 
-**Backend Systems**
-REST APIs, authentication, databases, and server-side functionality.
+### Backend Systems
 
-**Interactive Experiences**
+REST APIs, authentication, databases, and reliable server-side functionality.
+
+### Interactive Experiences
+
 Responsive interfaces designed to feel natural across devices.
 
-**Personal Projects**
+### Personal Projects
+
 Experiments and products that help me learn, improve, and explore new ideas.
 
 ---
 
+## Tech Stack
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
+</p>
+
+---
+
+## Current Focus
+
+* Building better full-stack applications
+* Improving UI/UX and frontend architecture
+* Writing cleaner and more maintainable code
+* Exploring new technologies
+* Turning ideas into useful products
+
+---
+
+## Philosophy
+
+> **Simple interfaces. Thoughtful experiences. Reliable systems.**
+
+I believe good software should not only work well — it should also feel natural to use.
+
+---
+
+## Connect
+
+<p align="left">
+  <a href="https://abhay-pawar-portfolio.vercel.app/">
+    Portfolio
+  </a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/abhaypawar04">
+    GitHub
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for stopping by.</i>
+</p>
