@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Abhay%20Pawar&font=Ubuntu&fontSize=55&fontColor=000000&fontAlignY=50&desc=MERN%20Developer%20%C2%B7%20Full-Stack%20Developer&descFont=Ubuntu&descSize=18&descColor=555555&descAlignY=80" />
 </p>
 <p align="center">
