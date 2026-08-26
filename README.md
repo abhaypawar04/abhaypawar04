@@ -14,10 +14,10 @@
 </p>
 
 ---
-<p>I'm a developer who enjoys turning ideas into polished digital experiences.
+<pre>I'm a developer who enjoys turning ideas into polished digital experiences.
 My main focus is full-stack web development, working across both the interface users see and the systems powering it behind the scenes.
 I care about: Clean and intuitive UI, Scalable application architecture, Responsive web experiences,Developer-friendly code, Learning and experimenting with new technologies.
-</p>
+</pre>
 What I Build
 Web Applications
 Modern full-stack applications with practical, user-focused interfaces.
