@@ -14,17 +14,20 @@
 </p>
 
 ---
-<p>I'm a developer who enjoys turning ideas into polished digital experiences.
-My main focus is full-stack web development, working across both the interface users see and the systems powering it behind the scenes.
-I care about: Clean and intuitive UI, Scalable application architecture, Responsive web experiences,Developer-friendly code, Learning and experimenting with new technologies.
-</p>
-What I Build
-Web Applications
-Modern full-stack applications with practical, user-focused interfaces.
-Backend Systems
-REST APIs, authentication, databases, and reliable server-side functionality.
-Interactive Experiences
-Responsive interfaces designed to feel natural across devices.
+## What I Build
+
+- **Web Applications** — Architecting modern, user-centric applications with seamless functionality.
+- **Backend Systems** — Developing resilient APIs, authentication systems, databases, and scalable infrastructure.
+- **Interactive Experiences** — Crafting responsive, immersive interfaces optimized across devices.
+
+## What I Value
+
+- Clean and intuitive user interfaces
+- Scalable and resilient application architecture
+- Responsive and accessible experiences
+
+> Driven by curiosity, precision, and the pursuit of elegant engineering solutions.
+
 
 ---
 
