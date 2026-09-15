@@ -1,9 +1,9 @@
-<h1 align="center">
-  Abhay Pawar
-</h1> 
+<h1 align="center">Abhay Pawar</h1>
+
 <p align="center">
-  <i>Building modern products that feel simple, fast, and intuitive.</i>
+  Full-Stack Developer · MERN · Backend · Software Engineering
 </p>
+
 <p align="center">
   <a href="https://abhay-pawar-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=safari&logoColor=white" />
@@ -13,28 +13,48 @@
   </a>
 </p>
 
+<br>
+
+## About
+
+I build modern web applications with a focus on **clean interfaces, reliable backend systems, and scalable architecture**.
+
+I enjoy turning ideas into simple, practical, and well-engineered digital experiences.
+
 ---
+
 ## What I Build
 
-- **Web Applications** — Architecting modern, user-centric applications with seamless functionality.
-- **Backend Systems** — Developing resilient APIs, authentication systems, databases, and scalable infrastructure.
-- **Interactive Experiences** — Crafting responsive, immersive interfaces optimized across devices.
+**Web Applications**
+Modern, responsive applications designed around usability and performance.
+
+**Backend Systems**
+REST APIs, authentication, database systems, and scalable server-side architecture.
+
+**Interactive Experiences**
+Clean interfaces with thoughtful interactions across desktop and mobile.
+
+---
 
 ## What I Value
 
-- Clean and intuitive user interfaces
-- Scalable and resilient application architecture
-- Responsive and accessible experiences
-
-> Driven by curiosity, precision, and the pursuit of elegant engineering solutions.
-
+* Simplicity over unnecessary complexity
+* Clean and maintainable code
+* Scalable application architecture
+* Responsive and accessible interfaces
+* Performance and reliability
+* Continuous learning
 
 ---
 
 ## Tech Stack
-<p align="left">
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,postman,linux,aws" />
 </p>
 
 ---
 
+<p align="center">
+  <i>Driven by curiosity, precision, and the pursuit of elegant engineering.</i>
+</p>
