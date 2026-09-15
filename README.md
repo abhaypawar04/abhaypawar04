@@ -1,9 +1,7 @@
 <h1 align="center">Abhay Pawar</h1>
-
 <p align="center">
   Full-Stack Developer · MERN · Backend · Software Engineering
 </p>
-
 <p align="center">
   <a href="https://abhay-pawar-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=safari&logoColor=white" />
@@ -12,8 +10,6 @@
     <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
-
-<br>
 
 ## About
 
@@ -41,9 +37,6 @@ Clean interfaces with thoughtful interactions across desktop and mobile.
 * Simplicity over unnecessary complexity
 * Clean and maintainable code
 * Scalable application architecture
-* Responsive and accessible interfaces
-* Performance and reliability
-* Continuous learning
 
 ---
 
