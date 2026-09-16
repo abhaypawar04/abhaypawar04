@@ -1,6 +1,5 @@
 * 🔭 I’m currently building **Full-Stack Web Applications**
 * 🌱 I’m currently learning **GenAI & AI-Governance**
-* 👯 I’m looking to collaborate on **Web Development Projects**
 * 💬 Ask me about **React, Node.js, Express & MongoDB**
 * 📫 How to reach me: **GitHub / Portfolio**
 
