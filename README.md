@@ -5,5 +5,5 @@
 
 ---
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,js,react,tailwind,nodejs,express,mongodb,mysql,git,github,postman,linux,aws" />
+  <img src="https://skillicons.dev/icons?i=html,js,react,tailwind,nodejs,express,genai,mongodb,mysql,git,github,postman,linux,aws" />
 </p>
