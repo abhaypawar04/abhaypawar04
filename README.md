@@ -3,7 +3,7 @@
 * 💬 Ask me about **React, Node.js, Express & MongoDB**
 * 📫 How to reach me: **GitHub / Portfolio**
 
-------
+---------
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,js,react,tailwind,nodejs,express,mongodb,mysql,git,github,postman,linux,aws" />
 </p>
